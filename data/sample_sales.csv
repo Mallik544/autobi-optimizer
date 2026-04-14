@@ -1,0 +1,9 @@
+order_id,customer_id,region,amount,quantity
+1,1001,East,120.5,2
+2,1002,West,300.0,4
+3,1003,East,,1
+4,1001,East,120.5,2
+5,1004,South,9999.0,1
+6,1005,North,45.0,1
+7,1006,West,88.0,2
+8,1007,West,88.0,2

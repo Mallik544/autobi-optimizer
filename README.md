@@ -118,9 +118,6 @@ result = qa.analyze(query)
 print(result)
 ```
 
-## Sample EB1A positioning
-
-This project demonstrates a reusable open-source contribution in the area of AI-driven BI optimization. It addresses a real enterprise problem space by combining query analysis, data quality intelligence, and performance recommendations into a public, extensible framework that can be adopted by analytics engineers, BI developers, and enterprise data teams.
 
 ## Roadmap
 
@@ -131,6 +128,7 @@ This project demonstrates a reusable open-source contribution in the area of AI-
 - API endpoints for CI/CD integration
 - plugin system for BI platforms
 
-## License
 
-You can publish this under the MIT License if you want broad adoption.
+## Demo
+![Screenshot_13-4-2026_224047_localhost](https://github.com/user-attachments/assets/d0b98665-182e-4b60-a8f9-479ba81461a1)
+
